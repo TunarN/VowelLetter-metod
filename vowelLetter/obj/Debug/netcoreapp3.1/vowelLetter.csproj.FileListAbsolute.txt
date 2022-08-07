@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.exe
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.deps.json
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.runtimeconfig.json
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.dll
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\bin\Debug\netcoreapp3.1\vowelLetter.pdb
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.dll
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.pdb
+C:\Users\lenovo\Desktop\vowelLetter\vowelLetter\vowelLetter\obj\Debug\netcoreapp3.1\vowelLetter.genruntimeconfig.cache
